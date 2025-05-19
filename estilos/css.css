@@ -1,5 +1,5 @@
 html{
-     /*hight:100vh;*/
+    height: 100;
     overflow: hidden;
 }
 body{
@@ -19,7 +19,7 @@ body{
     width: 100%;
     height: 100%;
     position:absolute;
-    background: url(wallpaperflare.com_wallpaper.jpg) top center;
+    background: url(fotos/wallpaperflare.com_wallpaper.jpg) top center;
     background-size: cover;
     transform: translateZ(-1px)scale(2.2);
     filter: blur(2px);
